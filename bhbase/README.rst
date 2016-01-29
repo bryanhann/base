@@ -9,7 +9,7 @@ this is my base
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
+A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE....
 
 
 Note
